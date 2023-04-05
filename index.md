@@ -1,6 +1,7 @@
 # Boyu Tian
 ### I'm a *sophomore student* majoring in `Computer Science`
 ![This is my head portrait](IMG_0001.jpg)
+
 This is my favorite professor: [Thomas A. Powell](https://cse.ucsd.edu/people/faculty-profiles/thomas-powell)
 > Software Engineering is not just about coding, but also involves team building, communication, and cooperation.
 
